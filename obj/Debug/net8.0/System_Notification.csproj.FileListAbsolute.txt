@@ -1,0 +1,14 @@
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\bin\Debug\net8.0\System_Notification.exe
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\bin\Debug\net8.0\System_Notification.deps.json
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\bin\Debug\net8.0\System_Notification.runtimeconfig.json
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\bin\Debug\net8.0\System_Notification.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\bin\Debug\net8.0\System_Notification.pdb
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.AssemblyInfoInputs.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.AssemblyInfo.cs
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.csproj.CoreCompileInputs.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\refint\System_Notification.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.pdb
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\System_Notification.genruntimeconfig.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\System_Notification\obj\Debug\net8.0\ref\System_Notification.dll
